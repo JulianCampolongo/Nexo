@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5c9f24;
+  background: #ec0303;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #6fc02c;
+  background: #131212;
   color: #fff;
 }
 .back-to-top.active {
@@ -638,7 +638,7 @@ section {
   line-height: 0;
 }
 .services:hover .icon {
-  box-shadow: 0px 0 25px rgba(92, 159, 36, 0.3);
+  box-shadow: 0px 0 25px rgba(180, 49, 49, 0.3);
 }
 .services .title {
   font-weight: 600;
@@ -1385,4 +1385,3 @@ section {
 #aboutp{
   font-size: 18px;
 }
-
